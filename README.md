@@ -19,15 +19,18 @@ I found moment.js quite easy to understand, however I have faced a few challenge
 
 The below screenshots are from the entire journey with the finished project
 
-1. Start from the HTML & CSS structure for the quiz, including the start screen, and end screen.
+1. Start from the HTML & CSS structure for the quiz, including the start screen, and end screen.<img width="1920" alt="Screenshot - Starter HTML" src="https://user-images.githubusercontent.com/115581300/211377083-c7dafd23-f1c7-4c50-b1b0-e2841ba6e6b1.png">
 
-2. Use the Bootstrap grid system to create the layout for the calendar.
+2. Use the Bootstrap grid system to create the layout for the calendar.<img width="1920" alt="Screenshot - HTML Code" src="https://user-images.githubusercontent.com/115581300/211377098-e270b2af-ef02-4bff-b11c-32ad99fa8380.png">
 
-3. Write the JavaScript code to get the current date and display it at the top of the page.
+3. Write the JavaScript code to get the current date and display it at the top of the page.<img width="424" alt="Screenshot - Current date and time" src="https://user-images.githubusercontent.com/115581300/211377118-72344255-594a-4879-a0cf-c8196c8a073a.png">
 
-4. Add event listeners to the save buttons to save the tasks or events to local storage when clicked.
+4. Add event listeners to the save buttons to save the tasks or events to local storage when clicked.<img width="1920" alt="Screenshot - Add Event Listeners" src="https://user-images.githubusercontent.com/115581300/211377136-7c4d75ca-5dad-46d2-8488-ec06bc22be33.png">
 
-5. Use the localStorage API to save and retrieve tasks or events from local storage.
+5. Use the localStorage API to save and retrieve tasks or events from local storage. <img width="1920" alt="Screenshot - Full JS Code" src="https://user-images.githubusercontent.com/115581300/211377166-6ae747d9-0217-4a08-950e-69dbdab3f21d.png">
+
+6. Completed Project <img width="1920" alt="Screenshot - Final Result" src="https://user-images.githubusercontent.com/115581300/211377270-0e7da9aa-0803-422d-802c-8da3ac9dea7b.png">
+
 
 
 # Things I learned
